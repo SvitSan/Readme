@@ -16,8 +16,8 @@ normal text
 - [] task 4
 
 ## Table
-| id| name| age| status| 
-| ---| ----| ----| status| 
+|id| name| age| status| 
+|---|----|----|----| 
 | 66| San| 20| True| 
 
 ## Block quet
