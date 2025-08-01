@@ -12,8 +12,8 @@ normal text
 - [X] task 1
 - [X] task 2
 ---
-- [] task 3
-- [] task 4
+- [ ] task 3
+- [ ] task 4
 
 ## Table
 |id| name| age| status| 
